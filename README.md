@@ -103,6 +103,7 @@ In case you forgot, or don’t know how to install Arduino libraries [click here
 
 ### Container Changelog (dd.mm.yy)
 
+ - **15.08.2019** - update Blynk server to v0.41.10 version
  - **20.03.2019** - update Blynk server to 0.41.4 version
  - **19.08.2018** - update Blynk server to 0.39.4 version
  - **13.04.2018** - update Blynk server to 0.34.2 version
